@@ -231,4 +231,4 @@ This repository serves as the official landing page for **HDShredder**. The soft
 **Get the most recent version of HDShredder today!**
 
 ---
-**Last updated:** 2026-09-11 14:52:55 UTC
+**Last updated:** 2026-09-11 18:14:32 UTC
